@@ -1,0 +1,42 @@
+.titulo{
+	Color: white;
+	background-color: lightgreen;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 2%;
+	margin:0%;
+	border-radius:10px;
+	box-shadow: 0px 2px 2px black;
+	text-shadow: 0px 1px 2px black;
+	font-family: "times newm";
+}
+
+.barra{
+	color:green;
+}
+.subtitulo{
+    color:red;
+}
+.caixatexto{
+  border-radius: 10px;´
+  padding: 4px;	
+}
+
+.matricula{
+	Color:green;
+	background-color: lightgreen; 
+	font-size: 15px;
+	padding: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border-radius:5px;
+	box-shadow: 0px 2px 2px black;
+	text-shadow: 1px 1px 1px black;
+	font-family: "times newn";
+	border: none; 
+	cursor: pointer;
+	
+	
+	
+	
+}
